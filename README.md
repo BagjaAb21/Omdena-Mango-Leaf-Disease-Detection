@@ -4,9 +4,9 @@
 * [Introduction](#Introduction)
 * [Problem Statement](#Problem-Statement)
 * [Project Goals](#Project-Goals)
-* [DAX Formulas Used in Measures](#DAX-Formulas-Used-in-Measures)
-* [Bug / Feature Request](#Bug--Feature-Request)
-* [Authors](#Authors)
+* [Contribution Guidelines](#Contribution-Guidelines)
+* [Project Structure](#Project-Structure)
+* [Folder Overview](#Folder-Overview)
 
 ## Introduction
 * Agriculture plays a vital role in Bangladesh’s economy, contributing 11.5% to the GDP. Fruits comprise 10% of national income.
